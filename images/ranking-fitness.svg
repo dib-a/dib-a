@@ -35,7 +35,8 @@
      inkscape:window-x="1920"
      inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" /><defs
+     inkscape:current-layer="layer2"
+     showgrid="false" /><defs
      id="defs1"><linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient24"
@@ -162,7 +163,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:9.87778px;font-family:Poppins;-inkscape-font-specification:'Poppins Medium';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:2.04893"
          x="54.999218"
          y="17.718412"
-         id="tspan22">Rankring</tspan></text><rect
+         id="tspan22">Ranking</tspan></text><rect
        style="fill:none;fill-opacity:1;stroke:url(#linearGradient2);stroke-width:2.64583;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
        id="rect56"
        width="31.875992"
